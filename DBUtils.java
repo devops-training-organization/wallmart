@@ -1,3 +1,3 @@
 Here I am updating in Dev branch
-Hello its revision
+Hello
 Updatiing file and going to use -a to commit
