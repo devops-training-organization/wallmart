@@ -1,0 +1,1 @@
+Moved wallmart folder inside Projectsss using GUI
