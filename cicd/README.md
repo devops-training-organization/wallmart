@@ -1,2 +1,1 @@
-Hi 
-G
+> What is Ansible.
